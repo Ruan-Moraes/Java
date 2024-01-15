@@ -56,7 +56,7 @@ public class EstruturaDeDecisao {
     public static void datas() throws ParseException {
         Date data = new SimpleDateFormat("dd/MM/yyyy").parse("21/05/2034");
 
-        if (data.before(new Date())) {
+        if (!data.before(new Date())) {
             System.out.println("Esse dia já passou");
         } else {
             System.out.println("Esse dia não chegou");
