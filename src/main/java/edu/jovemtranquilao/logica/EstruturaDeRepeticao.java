@@ -1,4 +1,4 @@
-package com.youtube.jovemtranquilao.logica;
+package edu.jovemtranquilao.logica;
 
 import java.util.ArrayList;
 
