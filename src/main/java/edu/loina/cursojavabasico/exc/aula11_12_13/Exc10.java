@@ -1,4 +1,4 @@
-package edu.loina.cursojavabasico.exc.aula13;
+package edu.loina.cursojavabasico.exc.aula11_12_13;
 
 import java.util.Scanner;
 
