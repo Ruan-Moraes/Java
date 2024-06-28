@@ -5,45 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4734a1ff-be00-4b79-9f0b-f09491d7792b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula16_17/Exc52.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +98,16 @@
     "Application.Exc36.executor": "Run",
     "Application.Exc38.executor": "Run",
     "Application.Exc4.executor": "Run",
+    "Application.Exc41.executor": "Run",
+    "Application.Exc42.executor": "Run",
+    "Application.Exc43.executor": "Run",
+    "Application.Exc45.executor": "Run",
+    "Application.Exc48.executor": "Run",
+    "Application.Exc49.executor": "Run",
     "Application.Exc5.executor": "Run",
+    "Application.Exc50.executor": "Run",
+    "Application.Exc51.executor": "Run",
+    "Application.Exc52.executor": "Run",
     "Application.Exc6.executor": "Run",
     "Application.Exc7.executor": "Run",
     "Application.Exc8.executor": "Run",
@@ -159,7 +141,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/aulas/aula10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exc38">
+  <component name="RunManager" selected="Application.Exc49">
     <configuration name="Argumentos" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.aulas.aula06.Argumentos" />
       <module name="logica-de-programacao-basica" />
@@ -188,8 +170,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula16_17.Exc33" />
+    <configuration name="Exc48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula16_17.Exc48" />
       <module name="logica-de-programacao-basica" />
       <extension name="coverage">
         <pattern>
@@ -201,8 +183,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula16_17.Exc34" />
+    <configuration name="Exc49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula16_17.Exc49" />
       <module name="logica-de-programacao-basica" />
       <extension name="coverage">
         <pattern>
@@ -214,8 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula16_17.Exc35" />
+    <configuration name="Exc50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula16_17.Exc50" />
       <module name="logica-de-programacao-basica" />
       <extension name="coverage">
         <pattern>
@@ -227,8 +209,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula16_17.Exc36" />
+    <configuration name="Exc51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula16_17.Exc51" />
       <module name="logica-de-programacao-basica" />
       <extension name="coverage">
         <pattern>
@@ -240,8 +222,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula16_17.Exc38" />
+    <configuration name="Exc52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula16_17.Exc52" />
       <module name="logica-de-programacao-basica" />
       <extension name="coverage">
         <pattern>
@@ -255,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exc38" />
-        <item itemvalue="Application.Exc36" />
-        <item itemvalue="Application.Exc35" />
-        <item itemvalue="Application.Exc34" />
-        <item itemvalue="Application.Exc33" />
+        <item itemvalue="Application.Exc49" />
+        <item itemvalue="Application.Exc52" />
+        <item itemvalue="Application.Exc51" />
+        <item itemvalue="Application.Exc50" />
+        <item itemvalue="Application.Exc48" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +272,8 @@
       <workItem from="1719321562084" duration="3099000" />
       <workItem from="1719437670558" duration="5041000" />
       <workItem from="1719496324083" duration="1024000" />
-      <workItem from="1719522071192" duration="2016000" />
+      <workItem from="1719522071192" duration="2071000" />
+      <workItem from="1719577791223" duration="4314000" />
     </task>
     <servers />
   </component>
