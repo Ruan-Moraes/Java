@@ -5,21 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4734a1ff-be00-4b79-9f0b-f09491d7792b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula19/Exc42.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,83 +70,86 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.AloMundo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Argumentos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Argumentos2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CuriosidadeInt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Erro02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Erro03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstruturaDeDecisao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstruturaDeRepeticao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc14.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc15.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc16.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc17.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc18.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc19.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc20.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc21.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc22.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc23.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc24.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc25.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc26.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc27.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc28.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc29.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc30.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc31.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc32.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc33.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc34.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc35.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc36.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc38.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc41.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc42.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc43.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc45.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc48.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc49.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc50.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc51.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc52.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exc9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Piadinha.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RepitacaoEDecisaoJuntos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Variaveis.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/ruanmoraes/Área de Trabalho/meusProjetos/Java/src/main/java/edu/loina/cursojavabasico/exc/aula13&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AloMundo.executor": "Run",
+    "Application.Argumentos.executor": "Run",
+    "Application.Argumentos2.executor": "Run",
+    "Application.CuriosidadeInt.executor": "Run",
+    "Application.Erro02.executor": "Run",
+    "Application.Erro03.executor": "Run",
+    "Application.EstruturaDeDecisao.executor": "Run",
+    "Application.EstruturaDeRepeticao.executor": "Run",
+    "Application.Exc1.executor": "Run",
+    "Application.Exc10.executor": "Run",
+    "Application.Exc11.executor": "Run",
+    "Application.Exc12.executor": "Run",
+    "Application.Exc13.executor": "Run",
+    "Application.Exc14.executor": "Run",
+    "Application.Exc15.executor": "Run",
+    "Application.Exc16.executor": "Run",
+    "Application.Exc17.executor": "Run",
+    "Application.Exc18.executor": "Run",
+    "Application.Exc19.executor": "Run",
+    "Application.Exc2.executor": "Run",
+    "Application.Exc20.executor": "Run",
+    "Application.Exc21.executor": "Run",
+    "Application.Exc22.executor": "Run",
+    "Application.Exc23.executor": "Run",
+    "Application.Exc24.executor": "Run",
+    "Application.Exc25.executor": "Run",
+    "Application.Exc26.executor": "Run",
+    "Application.Exc27.executor": "Run",
+    "Application.Exc28.executor": "Run",
+    "Application.Exc29.executor": "Run",
+    "Application.Exc3.executor": "Run",
+    "Application.Exc30.executor": "Run",
+    "Application.Exc31.executor": "Run",
+    "Application.Exc32.executor": "Run",
+    "Application.Exc33.executor": "Run",
+    "Application.Exc34.executor": "Run",
+    "Application.Exc35.executor": "Run",
+    "Application.Exc36.executor": "Run",
+    "Application.Exc37.executor": "Run",
+    "Application.Exc38.executor": "Run",
+    "Application.Exc39.executor": "Run",
+    "Application.Exc4.executor": "Run",
+    "Application.Exc40.executor": "Run",
+    "Application.Exc41.executor": "Run",
+    "Application.Exc42.executor": "Run",
+    "Application.Exc43.executor": "Run",
+    "Application.Exc45.executor": "Run",
+    "Application.Exc48.executor": "Run",
+    "Application.Exc49.executor": "Run",
+    "Application.Exc5.executor": "Run",
+    "Application.Exc50.executor": "Run",
+    "Application.Exc51.executor": "Run",
+    "Application.Exc52.executor": "Run",
+    "Application.Exc6.executor": "Run",
+    "Application.Exc7.executor": "Run",
+    "Application.Exc8.executor": "Run",
+    "Application.Exc9.executor": "Run",
+    "Application.Piadinha.executor": "Run",
+    "Application.RepitacaoEDecisaoJuntos.executor": "Run",
+    "Application.Variaveis.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/ruanmoraes/Área de Trabalho/meusProjetos/Java/src/main/java/edu/loina/cursojavabasico/exc/aula13",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/exc/aula13" />
@@ -144,7 +159,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/edu/loina/cursojavabasico/aulas/aula10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exc15">
+  <component name="RunManager" selected="Application.Exc42">
     <configuration name="Argumentos" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.aulas.aula06.Argumentos" />
       <module name="logica-de-programacao-basica" />
@@ -173,8 +188,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula19.Exc11" />
+    <configuration name="Exc37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula19.Exc37" />
       <module name="logica-de-programacao-basica" />
       <extension name="coverage">
         <pattern>
@@ -186,8 +201,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula19.Exc12" />
+    <configuration name="Exc38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula19.Exc38" />
       <module name="logica-de-programacao-basica" />
       <extension name="coverage">
         <pattern>
@@ -199,8 +214,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula19.Exc13" />
+    <configuration name="Exc39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula19.Exc39" />
       <module name="logica-de-programacao-basica" />
       <extension name="coverage">
         <pattern>
@@ -212,8 +227,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula19.Exc14" />
+    <configuration name="Exc40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula19.Exc40" />
       <module name="logica-de-programacao-basica" />
       <extension name="coverage">
         <pattern>
@@ -225,8 +240,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula19.Exc15" />
+    <configuration name="Exc42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.loina.cursojavabasico.exc.aula19.Exc42" />
       <module name="logica-de-programacao-basica" />
       <extension name="coverage">
         <pattern>
@@ -240,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exc15" />
-        <item itemvalue="Application.Exc14" />
-        <item itemvalue="Application.Exc13" />
-        <item itemvalue="Application.Exc12" />
-        <item itemvalue="Application.Exc11" />
+        <item itemvalue="Application.Exc42" />
+        <item itemvalue="Application.Exc40" />
+        <item itemvalue="Application.Exc39" />
+        <item itemvalue="Application.Exc38" />
+        <item itemvalue="Application.Exc37" />
       </list>
     </recent_temporary>
   </component>
@@ -278,6 +293,11 @@
       <workItem from="1719522071192" duration="2071000" />
       <workItem from="1719577791223" duration="4562000" />
       <workItem from="1719665154316" duration="2532000" />
+      <workItem from="1719667696407" duration="148000" />
+      <workItem from="1719753896610" duration="1356000" />
+      <workItem from="1719845205653" duration="2382000" />
+      <workItem from="1719860275012" duration="1326000" />
+      <workItem from="1719925227837" duration="3312000" />
     </task>
     <servers />
   </component>
