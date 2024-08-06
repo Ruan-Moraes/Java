@@ -6,5 +6,15 @@ public class Lampada {
     int potencia;
     String cor;
     String tipoLuz;
-    boolean vendida;
+
+    @Override
+    public String toString() {
+        return "Lampada {" +
+                "modelo='" + modelo + '\'' +
+                ", tensao='" + tensao + '\'' +
+                ", potencia=" + potencia +
+                ", cor='" + cor + '\'' +
+                ", tipoLuz='" + tipoLuz + '\'' +
+                '}';
+    }
 }
