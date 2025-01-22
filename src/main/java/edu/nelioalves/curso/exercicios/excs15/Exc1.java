@@ -1,4 +1,4 @@
-package edu.nelioalves.curso.exercicios.excs15.entities;
+package edu.nelioalves.curso.exercicios.excs15;
 
 import edu.nelioalves.curso.exercicios.excs15.entities.course.Course;
 import edu.nelioalves.curso.exercicios.excs15.entities.student.Student;

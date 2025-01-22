@@ -2,11 +2,15 @@ package edu.nelioalves.curso.exercicios.excs13;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 
 public class Scanner {
+    public Scanner(InputStream in) {
+    }
+
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
 
